@@ -1,0 +1,30 @@
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.exe
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.deps.json
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.runtimeconfig.json
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.csproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.AssemblyInfo.cs
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\refint\at29nov.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.genruntimeconfig.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\C# - Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\ref\at29nov.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.exe
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.deps.json
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.runtimeconfig.json
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\bin\Debug\net6.0\at29nov.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.csproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.AssemblyInfo.cs
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\refint\at29nov.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\at29nov.genruntimeconfig.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\Cs_Igor\atividadeExercicios\at29nov\obj\Debug\net6.0\ref\at29nov.dll
